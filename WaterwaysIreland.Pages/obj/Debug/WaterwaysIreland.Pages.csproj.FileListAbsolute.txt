@@ -1,0 +1,9 @@
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\bin\Debug\WaterwaysIreland.Pages.dll
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\bin\Debug\WaterwaysIreland.Pages.pdb
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\bin\Debug\WebDriver.dll
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\bin\Debug\WebDriver.Support.dll
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\bin\Debug\WebDriver.xml
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\bin\Debug\WebDriver.Support.xml
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\obj\Debug\WaterwaysIreland.Pages.dll
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\obj\Debug\WaterwaysIreland.Pages.pdb
+C:\Users\hmckee\Documents\TestPOC\WaterwaysIreland.Pages\obj\Debug\WaterwaysIreland.Pages.csprojResolveAssemblyReference.cache

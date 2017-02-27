@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumExample", "SelniumExample\SeleniumExample.csproj", "{E62111EE-27F2-4F2A-B182-652F8FC80D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowExample", "SpecFlowExample\SpecFlowExample.csproj", "{45143D84-BBDD-47DA-BF49-1DC60371E7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterwaysIreland.Pages", "WaterwaysIreland.Pages\WaterwaysIreland.Pages.csproj", "{F9396090-3541-4D95-91DD-1E5FC0CA5CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62111EE-27F2-4F2A-B182-652F8FC80D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62111EE-27F2-4F2A-B182-652F8FC80D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62111EE-27F2-4F2A-B182-652F8FC80D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62111EE-27F2-4F2A-B182-652F8FC80D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45143D84-BBDD-47DA-BF49-1DC60371E7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45143D84-BBDD-47DA-BF49-1DC60371E7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45143D84-BBDD-47DA-BF49-1DC60371E7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45143D84-BBDD-47DA-BF49-1DC60371E7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9396090-3541-4D95-91DD-1E5FC0CA5CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9396090-3541-4D95-91DD-1E5FC0CA5CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9396090-3541-4D95-91DD-1E5FC0CA5CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9396090-3541-4D95-91DD-1E5FC0CA5CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
